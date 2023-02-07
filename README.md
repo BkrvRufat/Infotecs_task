@@ -2,17 +2,17 @@
 __________________________________________
 This script compare two log files, which are got by building C++ projects with make/CMake.
 Script takes 2 files as input: log, txt, cmake, etc. Then program compare this files and as a result print strings that differ
-
+To see project in github check my [repository](https://github.com/BkrvRufat/Infotecs_task)
 ## Requirements
-
+__________________________________________
 - OS
   - Windows
   - Linux
 - Python3.x
-__________________________________________
+
 
 ## Installation (using global python)
-
+__________________________________________
 - `cd /to/project/root/`
 - `python3 -m pip install --upgrade pip`
 - `python3 -m pip install -r requirements.txt`
@@ -37,4 +37,5 @@ vs
 "[ 75%] building c object source_subfolder/cmakefiles/zlib.dir/inffast.c.o"
 ```
 ## Author
+__________________________________________
 * **Bakirov Rufat** - *Initial work* - [BkrvRufat](https://github.com/BkrvRufat)
