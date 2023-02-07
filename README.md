@@ -1,8 +1,9 @@
 # Comparing build protocols
 __________________________________________
 This script compare two log files, which are got by building C++ projects with make/CMake.
-Script takes 2 files as input: log, txt, cmake, etc. Then program compare this files and as a result print strings that differ
-To see project in github check my [repository](https://github.com/BkrvRufat/Infotecs_task)
+Script takes 2 files as input: log, txt, cmake, etc. Then program compare this files and as a result print strings that differ.
+
+To see project in github check my [Repository](https://github.com/BkrvRufat/Infotecs_task)
 ## Requirements
 __________________________________________
 - OS
